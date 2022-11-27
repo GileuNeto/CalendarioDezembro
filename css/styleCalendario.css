@@ -2,6 +2,10 @@
     margin: 0;
     padding: 0;
 }
+ 
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 
 .fundo{
     background-color: darkgray;
@@ -28,6 +32,9 @@ table{
 a{
     color: #ffffff;
     font-family: Arial, Helvetica, sans-serif;
-
+    text-decoration: none;
+    background-color: rgb(56, 63, 153);
+    padding: 1px;
+    border-radius: 5px;
 }
 
